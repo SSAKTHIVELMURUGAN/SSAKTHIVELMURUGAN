@@ -30,7 +30,7 @@ Additionally, I have hands-on experience in utilizing Tinkercad for designing an
 - ⚡ Fun fact: I enjoy exploring new technologies and tinkering with electronic circuits in my spare time. Also, I enjoy designing on Canva. 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SSAKTHIVELMURUGAN)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/S.Sakthivel Murugan/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](s.sakthivelmurugan2003@gmail.com)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SSAKTHIVELMURUGAN)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/S.Sakthivel Murugan/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SSAKTHIVELMURUGAN)](https://github.com/anuraghazra/github-readme-stats)
 
