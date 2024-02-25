@@ -30,9 +30,6 @@ I am currently pursuing a B.E. in Electronics and Communication Engineering at K
 • 📡 Communication System <br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SSAKTHIVELMURUGAN)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SSAKTHIVELMURUGAN&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
