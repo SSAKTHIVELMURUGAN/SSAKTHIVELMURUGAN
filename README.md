@@ -12,13 +12,13 @@ I am currently pursuing a B.E. in Electronics and Communication Engineering at K
 Additionally, I have hands-on experience in utilizing Tinkercad for designing and simulating electronic circuits, particularly for IoT systems. Currently, I am expanding my skill set by learning about embedded systems and Flutter for Android app development
 
 ## Skills:
-• 🎨 UI Design
-• 🔍 Selenium Testing
-• 🌐 HTML, CSS, JavaScript
-• ☕ Java
-• 🐍 Python
-• ⚡ Digital Electronics
-• 📡 Communication System
+• 🎨 UI Design <br>
+• 🔍 Selenium Testing <br>
+• 🌐 HTML, CSS, JavaScript <br>
+• ☕ Java <br>
+• 🐍 Python <br>
+• ⚡ Digital Electronics <br>
+• 📡 Communication System <br>
 
 - 🔭 I’m currently working on enhancing my skills in UI design, front-end development, and Selenium testing. 
 - 🌱 I’m currently learning embedded systems, Flutter for Android app development, and prompt engineering. 
