@@ -1,6 +1,6 @@
 ![Design, Development, and Testing](https://media.licdn.com/dms/image/D5616AQHMUI7Y9X-u5A/profile-displaybackgroundimage-shrink_350_1400/0/1697383699609?e=1714608000&v=beta&t=R-5EwqMoiaM5-mpHS5AQrhMbSM-ztaJzDMr19XmglV4)
 
-### Hi there 👋, Sakthivel Murugan S
+#### Hi there 👋, I'm Sakthivel Murugan S
 #### Design, Development, and Testing
 
 I am currently pursuing a B.E. in Electronics and Communication Engineering at Karpagam Institute of Technology. With a passion for technology and a strong foundation in digital electronics and communication systems, I am good at :
@@ -10,7 +10,14 @@ I am currently pursuing a B.E. in Electronics and Communication Engineering at K
 3. Selenium Testing: Experienced in Selenium WebDriver for web application testing.
 Additionally, I have hands-on experience in utilizing Tinkercad for designing and simulating electronic circuits, particularly for IoT systems. Currently, I am expanding my skill set by learning about embedded systems and Flutter for Android app development
 
-Skills: Selenium Testing / Front end Development / Java / Python / Digital Electronics / Communication System
+##Skills:
+• 🎨 UI Design
+• 🔍 Selenium Testing
+• 🌐 HTML, CSS, JavaScript
+• ☕ Java
+• 🐍 Python
+• ⚡ Digital Electronics
+• 📡 Communication System
 
 - 🔭 I’m currently working on enhancing my skills in UI design, front-end development, and Selenium testing. 
 - 🌱 I’m currently learning embedded systems, Flutter for Android app development, and prompt engineering. 
