@@ -8,6 +8,7 @@ I am currently pursuing a B.E. in Electronics and Communication Engineering at K
 1. UI Design: Proficient in using Figma for UI design.
 2. Front-end Development: Skilled in HTML, CSS, and JavaScript for creating interactive web interfaces.
 3. Selenium Testing: Experienced in Selenium WebDriver for web application testing.
+
 Additionally, I have hands-on experience in utilizing Tinkercad for designing and simulating electronic circuits, particularly for IoT systems. Currently, I am expanding my skill set by learning about embedded systems and Flutter for Android app development
 
 ## Skills:
@@ -34,4 +35,3 @@ Additionally, I have hands-on experience in utilizing Tinkercad for designing an
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SSAKTHIVELMURUGAN)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=SSAKTHIVELMURUGAN)  
-
