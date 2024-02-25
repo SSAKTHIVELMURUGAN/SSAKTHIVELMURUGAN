@@ -33,7 +33,5 @@ Additionally, I have hands-on experience in utilizing Tinkercad for designing an
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SSAKTHIVELMURUGAN)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub metrics](https://metrics.lecoq.io/SSAKTHIVELMURUGAN)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=SSAKTHIVELMURUGAN)  
 
