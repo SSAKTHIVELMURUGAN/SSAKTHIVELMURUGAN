@@ -31,11 +31,12 @@ I am currently pursuing a B.E. in Electronics and Communication Engineering at K
 • ⚡ Digital Electronics <br>
 • 📡 Communication System <br>
 
-
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SSAKTHIVELMURUGAN)   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SSAKTHIVELMURUGAN)](https://github.com/anuraghazra/github-readme-stats)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=SSAKTHIVELMURUGAN&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SSAKTHIVELMURUGAN&theme=default&hide_border=false&include_all_commits=true&count_private=false)<br/>
@@ -46,8 +47,6 @@ I am currently pursuing a B.E. in Electronics and Communication Engineering at K
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SSAKTHIVELMURUGAN&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SSAKTHIVELMURUGAN&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=SSAKTHIVELMURUGAN&icon=0&color=0)](https://visitcount.itsvg.in)
