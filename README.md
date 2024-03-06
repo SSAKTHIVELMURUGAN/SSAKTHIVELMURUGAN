@@ -25,7 +25,6 @@ I am currently pursuing a B.E. in Electronics and Communication Engineering at K
 • 🔍 Selenium Testing <br>
 • 🌐 HTML, CSS, JavaScript <br>
 • ☕ Java <br>
-• 🐍 Python <br>
 • ⚡ Digital Electronics <br>
 • 📡 Communication System <br>
 
