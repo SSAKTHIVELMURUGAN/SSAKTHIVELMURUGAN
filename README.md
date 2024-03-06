@@ -28,6 +28,7 @@ I am currently pursuing a B.E. in Electronics and Communication Engineering at K
 • ⚡ Digital Electronics <br>
 • 📡 Communication System <br>
 
+[View Figma Project]([https://www.figma.com/proto/wYOvq8mOcAKVNMmd1su7SL?node-id=0-1&t=EI2lyHYMFsm6Tp2l-6](https://www.figma.com/proto/wYOvq8mOcAKVNMmd1su7SL?node-id=0-1&t=EI2lyHYMFsm6Tp2l-6))
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SSAKTHIVELMURUGAN&limit=5&theme=dark&combine_all_yearly_contributions=true)
