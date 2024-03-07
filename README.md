@@ -43,11 +43,12 @@ Check out my latest design project on Figma:
 
 [![View Figma Project](https://img.shields.io/badge/View%20on%20Figma-prototype-blue)](https://www.figma.com/proto/wYOvq8mOcAKVNMmd1su7SL/Blogs?node-id=3-179&t=r6BMTjgfUJgJGlWV-1&starting-point-node-id=13%3A4&mode=design)
 
-
 ## LeetCode Profile
 
-You can check out my LeetCode profile and my problem-solving status
-![LeetCode Problem Solving Status](https://img.shields.io/badge/LeetCode-Solved%20123%20Problems-blue)
+You can check out my LeetCode profile and my problem-solving status:
+
+[![LeetCode Problem Solving Status](https://img.shields.io/badge/LeetCode-Solved%20123%20Problems-blue)](https://leetcode.com/21ecb23/)
+
 
 
 ### 🔝 Top Contributed Repo
