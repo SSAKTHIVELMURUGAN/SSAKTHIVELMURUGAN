@@ -31,7 +31,7 @@ I am currently pursuing a B.E. in Electronics and Communication Engineering at K
 
 Explore the Selenium automation scripts in my latest project repository:
 
-[View Selenium Repository](https://github.com/SSAKTHIVELMURUGAN/Practice-Page-Web-Automation.git)
+[![View Selenium Automation Scripts](https://img.shields.io/badge/View%20Selenium%20Automation%20Scripts-blue)](https://github.com/SSAKTHIVELMURUGAN/Practice-Page-Web-Automation.git)
 
 Please refer to the README and code files in the repository for instructions on running the code and understanding its output.
 
