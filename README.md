@@ -31,7 +31,8 @@ I am currently pursuing a B.E. in Electronics and Communication Engineering at K
 
 Check out my latest design project on Figma:
 
-[![Figma Project](https://www.figma.com/proto/wYOvq8mOcAKVNMmd1su7SL/Blogs?node-id=3-179&t=r6BMTjgfUJgJGlWV-1&starting-point-node-id=13%3A4&mode=design)
+[![View Figma Project](https://img.shields.io/badge/View%20on%20Figma-prototype-blue)](https://www.figma.com/proto/wYOvq8mOcAKVNMmd1su7SL/Blogs?node-id=3-179&t=r6BMTjgfUJgJGlWV-1&starting-point-node-id=13%3A4&mode=design)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SSAKTHIVELMURUGAN&limit=5&theme=dark&combine_all_yearly_contributions=true)
