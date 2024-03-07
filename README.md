@@ -47,7 +47,7 @@ Check out my latest design project on Figma:
 
 You can check out my LeetCode profile and my problem-solving status:
 
-[![LeetCode Problem Solving Status](https://img.shields.io/badge/LeetCode-Solved%20123%20Problems-blue)](https://leetcode.com/21ecb23/)
+[![LeetCode Problem Solving Status](https://img.shields.io/badge/LeetCode-Solved Problems-blue)](https://leetcode.com/21ecb23/)
 
 
 
