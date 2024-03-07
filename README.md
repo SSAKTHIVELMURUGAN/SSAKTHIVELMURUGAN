@@ -1,15 +1,15 @@
 ![Design, Development, and Testing](https://media.licdn.com/dms/image/D5616AQGJzNQxX7qmeg/profile-displaybackgroundimage-shrink_350_1400/0/1708886541614?e=1714608000&v=beta&t=2oqa0wW4rmbxsZESV0rMsfVNplfTafJKC6Gl0ETPJJk)
 
 #### Hi there 👋, I'm Sakthivel Murugan S
-#### Design, Development, and Testing
+#### Design, Testing
 # 💫 About Me:
-I am currently pursuing a B.E. in Electronics and Communication Engineering at Karpagam Institute of Technology. With a passion for technology and a strong foundation in digital electronics and communication systems, I am good at :<br><br>UI Design: Proficient in using Figma for UI design.<br>Front-end Development: Skilled in HTML, CSS, and JavaScript for creating interactive web interfaces.<br>Selenium Testing: Experienced in Selenium WebDriver for web application testing.<br>Additionally, I have hands-on experience in utilizing Tinkercad for designing and simulating electronic circuits, particularly for IoT systems. Currently, I am expanding my skill set by learning about embedded systems and Flutter for Android app development
+I am currently pursuing a B.E. in Electronics and Communication Engineering at Karpagam Institute of Technology. With a passion for technology and a strong foundation in digital electronics and communication systems, I am good at :<br><br>UI Design: Proficient in using Figma for UI design <br>Selenium Testing: Experienced in Selenium WebDriver for web application testing.<br>Additionally, I have hands-on experience in utilizing Tinkercad for designing and simulating electronic circuits, particularly for IoT systems. Currently, I am expanding my skill set by learning about embedded systems
 
 
-- 🔭 I’m currently working on enhancing my skills in UI design, front-end development, and Selenium testing. 
-- 🌱 I’m currently learning embedded systems, Flutter for Android app development, and prompt engineering. 
+- 🔭 I’m currently working on enhancing my skills in Selenium testing and UI design. 
+- 🌱 I’m currently learning embedded systems and IoT.
 - 👯 I’m looking to collaborate on projects that involve innovative solutions and teamwork. 
-- 🤔 I’m looking for help with  gain more hands-on experience in diverse areas, including web development, testing, design, and electronics. 
+- 🤔 I’m looking for help with  gain more hands-on experience in diverse areas, including testing, design, and electronics. 
 - 💬 Ask me about  my journey into the world of technology and my passion for learning. 
 - 📫 How to reach me: You can reach me at s.sakthivelmurugan2003@gmail.com 
 - 😄 Pronouns:  He/Him 
@@ -21,12 +21,11 @@ I am currently pursuing a B.E. in Electronics and Communication Engineering at K
 
 
 # 💻 Tech Stack:
-• 🎨 UI Design <br>
+
 • 🔍 Selenium Testing <br>
-• 🌐 HTML, CSS, JavaScript <br>
+• 🎨 UI Design <br>
 • ☕ Java <br>
 • ⚡ Digital Electronics <br>
-• 📡 Communication System <br>
 
 ## 🎨 Figma Project
 
