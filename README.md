@@ -1,4 +1,4 @@
-![Design, Development, and Testing](https://media.licdn.com/dms/image/D5616AQHtahn--bxEVQ/profile-displaybackgroundimage-shrink_350_1400/0/1709830385841?e=1715212800&v=beta&t=5sVXC0dPkvrIujQOvBlO2Bwq8dZ-G3iNhEASD4t0y1s)
+![Design, Development, and Testing](https://media.licdn.com/dms/image/D5616AQHLzzItfz4j0w/profile-displaybackgroundimage-shrink_350_1400/0/1710319594082?e=1718236800&v=beta&t=4Oi8MbSNuqphBqoD8uolFdYRvdaevCDk4QjMWWIYvxw)
 
 #### Hi there 👋, I'm Sakthivel Murugan S
 #### Design, Testing
