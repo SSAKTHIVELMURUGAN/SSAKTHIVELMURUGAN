@@ -37,6 +37,14 @@ Please refer to the README and code files in the repository for instructions on 
 
 <br>
 
+## 🎨 Canva Designs
+
+Explore my latest design project on Canva:
+
+[![View on Canva](https://img.shields.io/badge/View%20on%20Figma-Project-blue?logo=figma)](https://www.figma.com/file/your-figma-project-url)
+
+<br>
+
 ## 🎨 Figma Project
 
 Check out my latest design project on Figma:
