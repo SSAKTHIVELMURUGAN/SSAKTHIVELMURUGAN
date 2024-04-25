@@ -16,7 +16,7 @@ I am currently pursuing a B.E. in Electronics and Communication Engineering at K
 - ⚡ Fun fact: I enjoy exploring new technologies and tinkering with electronic circuits in my spare time. Also, I enjoy designing on Canva. 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/s-sakthivel-murugan-7515a1269/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-sakthivel-murugan-7515a1269/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SSAKTHIVELMURUGAN)   
 
 
