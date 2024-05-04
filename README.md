@@ -22,7 +22,7 @@ As I continue my academic and professional journey, my future endeavors involve 
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-sakthivel-murugan-7515a1269/) 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SSAKTHIVELMURUGAN)   
+[<img src="https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064387883707" alt="github" height="40">](https://github.com/SSAKTHIVELMURUGAN)
 
 # Technical Stack
 
@@ -54,7 +54,7 @@ As I continue my academic and professional journey, my future endeavors involve 
 
 Explore the Devops handson work scripts in my latest project repository:
 
-[![View Devops Project Repo ](https://img.shields.io/badge/View%20SDevops%20Project%20Repo-blue)](https://github.com/SSAKTHIVELMURUGAN/reactfolio.git)
+[![View Devops Project Repo ](https://img.shields.io/badge/View%20Devops%20Project%20Repo-blue)](https://github.com/SSAKTHIVELMURUGAN/reactfolio.git)
 
 Please refer to the README and code files in the repository for instructions on running the code and understanding its output.
 
