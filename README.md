@@ -6,8 +6,8 @@
 # 💫 About Me:
 I am currently pursuing a B.E. in Electronics and Communication Engineering at Karpagam Institute of Technology. With a passion for technology and a strong foundation in digital electronics and communication systems, I am adept at:
 
-- DevOps Engineer: Experienced in deploying and managing applications on AWS, utilizing GitHub, Docker, Kubernetes, and Terraform for automation.
-- UI Design: Proficient in crafting user interfaces using Figma and Canva.
+- **DevOps Engineer:** Experienced in deploying and managing applications on AWS, utilizing GitHub, Docker, Kubernetes, and Terraform for automation.
+- **UI Designer:** Proficient in crafting user interfaces using Figma and Canva.
 
 As I continue my academic and professional journey, my future endeavors involve integrating DevOps principles with IoT technologies. By harnessing the power of automation and seamless deployment, I aim to create innovative solutions that bridge the gap between traditional systems and the Internet of Things.
 
