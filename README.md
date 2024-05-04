@@ -25,7 +25,7 @@ As I continue my academic and professional journey, my future endeavors involve 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-sakthivel-murugan-7515a1269/) &nbsp; &nbsp;
 [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="40">](https://github.com/SSAKTHIVELMURUGAN)
 
-# Technical Stack
+# 👨🏼‍💻 Technical Stack
 
 ## Programming Skills
 - Java 💻
@@ -51,7 +51,7 @@ As I continue my academic and professional journey, my future endeavors involve 
 ### Operating Systems
 - Ubuntu Linux 🐧
 
-## React Portfolio Application with AWS and Docker Repository
+## ♾️ React Portfolio Application with AWS and Docker Repository
 
 Explore the Devops handson work scripts in my latest project repository:
 
@@ -70,14 +70,14 @@ Explore my latest design project on Canva:
 
 <br>
 
-## 🎨 Figma Project
+## 🪄 Figma Project
 
 Check out my latest design project on Figma:
 
 [![View Figma Project](https://img.shields.io/badge/View%20on%20Figma-prototype-blue)](https://www.figma.com/proto/wYOvq8mOcAKVNMmd1su7SL/Blogs?node-id=3-179&t=r6BMTjgfUJgJGlWV-1&starting-point-node-id=13%3A4&mode=design)
 
 
-## LeetCode Profile
+## </> LeetCode Profile
 
 You can check out my LeetCode profile and my problem-solving status:
 
@@ -85,7 +85,7 @@ You can check out my LeetCode profile and my problem-solving status:
 
 
 
-# Areas of Interest
+# 📈 Areas of Interest
 
 - Digital Electronics ⚡️
 - Cryptocurrency 💰
