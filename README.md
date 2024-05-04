@@ -21,9 +21,9 @@ As I continue my academic and professional journey, my future endeavors involve 
 - ⚡ Fun fact: I enjoy exploring new technologies and tinkering with electronic circuits in my spare time. Also, I enjoy designing on Canva.
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-sakthivel-murugan-7515a1269/) 
-[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="40">](https://github.com/SSAKTHIVELMURUGAN)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-sakthivel-murugan-7515a1269/) &nbsp; &nbsp;
+[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="40">](https://github.com/SSAKTHIVELMURUGAN)
 
 # Technical Stack
 
