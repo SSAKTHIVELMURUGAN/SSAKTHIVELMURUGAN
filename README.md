@@ -1,38 +1,60 @@
-![Design, Development, and Testing](https://media.licdn.com/dms/image/D5616AQHLzzItfz4j0w/profile-displaybackgroundimage-shrink_350_1400/0/1710319594082?e=1718236800&v=beta&t=4Oi8MbSNuqphBqoD8uolFdYRvdaevCDk4QjMWWIYvxw)
+![Devops Engineer, Designer](https://media.licdn.com/dms/image/D5616AQFmiuVxOOq_Xw/profile-displaybackgroundimage-shrink_350_1400/0/1714699410955?e=1720051200&v=beta&t=_HyVj6SprTCpCqfXuC8lle8wyIj7IDaGYjVUXqgj638)
 
 #### Hi there 👋, I'm Sakthivel Murugan S
-#### Design, Testing
+#### Devops Engineer, Designer
+
 # 💫 About Me:
-I am currently pursuing a B.E. in Electronics and Communication Engineering at Karpagam Institute of Technology. With a passion for technology and a strong foundation in digital electronics and communication systems, I am good at :<br><br>UI Design: Proficient in using Figma for UI design <br>Selenium Testing: Experienced in Selenium WebDriver for web application testing.<br>Additionally, I have hands-on experience in utilizing Tinkercad for designing and simulating electronic circuits, particularly for IoT systems. Currently, I am expanding my skill set by learning about embedded systems
+I am currently pursuing a B.E. in Electronics and Communication Engineering at Karpagam Institute of Technology. With a passion for technology and a strong foundation in digital electronics and communication systems, I am adept at:
 
+- DevOps Engineer: Experienced in deploying and managing applications on AWS, utilizing GitHub, Docker, Kubernetes, and Terraform for automation.
+- UI Design: Proficient in crafting user interfaces using Figma and Canva.
 
-- 🔭 I’m currently working on enhancing my skills in Selenium testing and UI design. 
-- 🌱 I’m currently learning embedded systems and IoT.
-- 👯 I’m looking to collaborate on projects that involve innovative solutions and teamwork. 
-- 🤔 I’m looking for help with  gain more hands-on experience in diverse areas, including testing, design, and electronics. 
-- 💬 Ask me about  my journey into the world of technology and my passion for learning. 
-- 📫 How to reach me: You can reach me at s.sakthivelmurugan2003@gmail.com 
-- 😄 Pronouns:  He/Him 
-- ⚡ Fun fact: I enjoy exploring new technologies and tinkering with electronic circuits in my spare time. Also, I enjoy designing on Canva. 
+As I continue my academic and professional journey, my future endeavors involve integrating DevOps principles with IoT technologies. By harnessing the power of automation and seamless deployment, I aim to create innovative solutions that bridge the gap between traditional systems and the Internet of Things.
 
-## 🌐 Socials:
+- 🔭 I’m currently working on enhancing my skills in DevOps automation and UI design.
+- 🌱 I’m currently learning about integrating DevOps with IoT.
+- 👯 I’m looking to collaborate on projects that involve innovative solutions and teamwork.
+- 🤔 I’m looking for help with gaining more hands-on experience in diverse areas, including DevOps and IoT.
+- 💬 Ask me about my journey into the world of technology and my passion for learning.
+- 📫 How to reach me: You can reach me at [s.sakthivelmurugan2003@gmail.com](mailto:s.sakthivelmurugan2003@gmail.com)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy exploring new technologies and tinkering with electronic circuits in my spare time. Also, I enjoy designing on Canva.
+
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-sakthivel-murugan-7515a1269/) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SSAKTHIVELMURUGAN)   
 
+# Technical Stack
 
-# 💻 Tech Stack:
+## Programming Skills
+- Java 💻
+- Python 🐍
+- Golang 🚀
 
-• 🔍 Selenium Testing <br>
-• 🎨 UI Design <br>
-• ☕ Java <br>
-• 🐍 Python <br>
-• ⚡ Digital Electronics <br>
+## Technical Skills
+### Cloud Platforms
+- Amazon Web Services (AWS) ☁️
 
-## Selenium Code Repository
+### Infrastructure as Code (IaC)
+- Terraform 🛠️
 
-Explore the Selenium automation scripts in my latest project repository:
+### Containerization & Orchestration
+- Docker 🐳
+- Kubernetes ☸️
 
-[![View Selenium Automation Scripts](https://img.shields.io/badge/View%20Selenium%20Automation%20Scripts-blue)](https://github.com/SSAKTHIVELMURUGAN/Practice-Page-Web-Automation.git)
+### Version Control & CI/CD
+- GitHub 🐙
+- GitHub Actions 🚀
+- Jenkins 🛠️
+
+### Operating Systems
+- Ubuntu Linux 🐧
+
+## React Portfolio Application with AWS and Docker Repository
+
+Explore the Devops handson work scripts in my latest project repository:
+
+[![View Devops Project Repo ](https://img.shields.io/badge/View%20Selenium%20Automation%20Scripts-blue)](https://github.com/SSAKTHIVELMURUGAN/reactfolio.git)
 
 Please refer to the README and code files in the repository for instructions on running the code and understanding its output.
 
@@ -62,6 +84,11 @@ You can check out my LeetCode profile and my problem-solving status:
 
 
 
+# Areas of Interest
+
+- Digital Electronics ⚡️
+- Cryptocurrency 💰
+- Web Design using Canva, Figma 🎨
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SSAKTHIVELMURUGAN&limit=5&theme=dark&combine_all_yearly_contributions=true)
