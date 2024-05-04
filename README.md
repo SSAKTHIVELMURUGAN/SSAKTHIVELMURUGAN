@@ -54,7 +54,7 @@ As I continue my academic and professional journey, my future endeavors involve 
 
 Explore the Devops handson work scripts in my latest project repository:
 
-[![View Devops Project Repo ](https://img.shields.io/badge/View%20Selenium%20Automation%20Scripts-blue)](https://github.com/SSAKTHIVELMURUGAN/reactfolio.git)
+[![View Devops Project Repo ](https://img.shields.io/badge/View%20SDevops%20Project%20Repo-blue)](https://github.com/SSAKTHIVELMURUGAN/reactfolio.git)
 
 Please refer to the README and code files in the repository for instructions on running the code and understanding its output.
 
