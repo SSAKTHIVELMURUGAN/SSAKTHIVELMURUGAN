@@ -22,7 +22,8 @@ As I continue my academic and professional journey, my future endeavors involve 
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-sakthivel-murugan-7515a1269/) 
-[<img src="https://lookaside.fbsbx.com/lookaside/crawler/media/?media_id=100064387883707" alt="github" height="40">](https://github.com/SSAKTHIVELMURUGAN)
+[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="40">](https://github.com/SSAKTHIVELMURUGAN)
+
 
 # Technical Stack
 
