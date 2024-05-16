@@ -30,7 +30,7 @@ As I continue my academic and professional journey, my future endeavors involve 
 ## Programming Skills
 - Java 💻
 - Python 🐍
-- 
+
 ## Technical Skills
 ### Cloud Platforms
 - Amazon Web Services (AWS) ☁️
