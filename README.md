@@ -66,7 +66,6 @@ Explore my latest design project on Canva:
 
 [![View on Canva](https://img.shields.io/badge/View%20on%20Canva-Designs-blue?logo=canva)](https://github.com/SSAKTHIVELMURUGAN/Canva-Designs.git)
 
-
 <br>
 
 ## 🪄 Figma Project
@@ -75,16 +74,13 @@ Check out my latest design project on Figma:
 
 [![View Figma Project](https://img.shields.io/badge/View%20on%20Figma-prototype-blue)](https://www.figma.com/proto/wYOvq8mOcAKVNMmd1su7SL/Blogs?node-id=3-179&t=r6BMTjgfUJgJGlWV-1&starting-point-node-id=13%3A4&mode=design)
 
-
 ## </> LeetCode Profile
 
 You can check out my LeetCode profile and my problem-solving status:
 
 [![LeetCode Problem Solving Status](https://img.shields.io/badge/LeetCode-Solved%20Problems-blue)](https://leetcode.com/21ecb23/)
 
-
-
-# 📈 Areas of Interest
+# 📈 Area of Interest
 
 - Digital Electronics ⚡️
 - Cryptocurrency 💰
@@ -97,7 +93,6 @@ You can check out my LeetCode profile and my problem-solving status:
 ![](https://github-readme-stats.vercel.app/api?username=SSAKTHIVELMURUGAN&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SSAKTHIVELMURUGAN&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SSAKTHIVELMURUGAN&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SSAKTHIVELMURUGAN&theme=radical&no-frame=false&no-bg=true&margin-w=4)
