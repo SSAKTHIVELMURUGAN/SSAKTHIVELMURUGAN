@@ -74,11 +74,15 @@ Check out my latest design project on Figma:
 
 [![View Figma Project](https://img.shields.io/badge/View%20on%20Figma-prototype-blue)](https://www.figma.com/proto/wYOvq8mOcAKVNMmd1su7SL/Blogs?node-id=3-179&t=r6BMTjgfUJgJGlWV-1&starting-point-node-id=13%3A4&mode=design)
 
+<br>
+
 ## </> LeetCode Profile
 
 You can check out my LeetCode profile and my problem-solving status:
 
 [![LeetCode Problem Solving Status](https://img.shields.io/badge/LeetCode-Solved%20Problems-blue)](https://leetcode.com/21ecb23/)
+
+<br>
 
 # 📈 Area of Interest
 
@@ -86,8 +90,12 @@ You can check out my LeetCode profile and my problem-solving status:
 - Cryptocurrency 💰
 - Web Design using Canva, Figma 🎨
 
+<br>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SSAKTHIVELMURUGAN&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+<br>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=SSAKTHIVELMURUGAN&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
