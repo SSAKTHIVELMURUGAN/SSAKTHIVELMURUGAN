@@ -1,5 +1,3 @@
-![Devops Engineer, Designer](https://media.licdn.com/dms/image/D5616AQFmiuVxOOq_Xw/profile-displaybackgroundimage-shrink_350_1400/0/1714699410955?e=1720051200&v=beta&t=_HyVj6SprTCpCqfXuC8lle8wyIj7IDaGYjVUXqgj638)
-
 #### Hi there 👋, I'm Sakthivel Murugan S
 #### Devops Engineer, Designer
 
