@@ -1,5 +1,5 @@
 #### Hi there 👋, I'm Sakthivel Murugan S
-#### Devops Engineer, Designer
+#### Devops Engineer
 
 # 💫 About Me:
 I am currently pursuing a B.E. in Electronics and Communication Engineering at Karpagam Institute of Technology. With a passion for technology and a strong foundation in digital electronics and communication systems, I am adept at:
