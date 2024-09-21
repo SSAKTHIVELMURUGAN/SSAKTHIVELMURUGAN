@@ -1,21 +1,21 @@
-#### Hi there 👋, I'm Sakthivel Murugan S
-#### Devops Engineer
+### Hi there 👋, I'm Sakthivel Murugan S
+#### DevOps Engineer
 
 # 💫 About Me:
-I am currently pursuing a B.E. in Electronics and Communication Engineering at Karpagam Institute of Technology. With a passion for technology and a strong foundation in digital electronics and communication systems, I am adept at:
+I am currently pursuing a B.E. in Electronics and Communication Engineering at Karpagam Institute of Technology. With a passion for technology and a strong foundation in cloud computing, I am adept at:
 
 - **DevOps Engineer:** Experienced in deploying and managing applications on AWS, utilizing GitHub, Docker, Kubernetes, and Terraform for automation.
 
-As I continue my academic and professional journey, my future endeavors involve integrating DevOps principles with IoT technologies. By harnessing the power of automation and seamless deployment, I aim to create innovative solutions that bridge the gap between traditional systems and the Internet of Things.
+As I continue my academic and professional journey, I aim to deepen my expertise in DevOps and cloud technologies. By harnessing the power of automation and seamless deployment, I strive to create innovative solutions in this domain.
 
-- 🔭 I’m currently working on enhancing my skills in DevOps automation and UI design.
-- 🌱 I’m currently learning about integrating DevOps with IoT.
-- 👯 I’m looking to collaborate on projects that involve innovative solutions and teamwork.
-- 🤔 I’m looking for help with gaining more hands-on experience in diverse areas, including DevOps and IoT.
-- 💬 Ask me about my journey into the world of technology and my passion for learning.
-- 📫 How to reach me: You can reach me at [s.sakthivelmurugan2003@gmail.com](mailto:s.sakthivelmurugan2003@gmail.com)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy exploring new technologies and tinkering with electronic circuits in my spare time. Also, I enjoy designing on Canva.
+- 🔭 **Currently working on:** Enhancing my skills in DevOps automation and UI design.
+- 🌱 **Learning:** Advanced cloud concepts and best practices in DevOps.
+- 👯 **Looking to collaborate on:** Projects involving innovative solutions and teamwork.
+- 🤔 **Seeking help with:** Gaining more hands-on experience in diverse areas of cloud and DevOps.
+- 💬 **Feel free to ask me about:** My journey into the world of technology and my passion for learning.
+- 📫 **Contact me:** [s.sakthivelmurugan2003@gmail.com](mailto:s.sakthivelmurugan2003@gmail.com)
+- 😄 **Pronouns:** He/Him
+- ⚡ **Fun fact:** I enjoy exploring new technologies and tinkering with electronic circuits in my spare time. I also love designing on Canva.
 
 # 🌐 Socials:
 
@@ -26,7 +26,7 @@ As I continue my academic and professional journey, my future endeavors involve 
 
 ## Programming Skills
 - Java 💻
-- Python 🐍
+- MySQL 💾
 
 ## Technical Skills
 ### Cloud Platforms
@@ -49,9 +49,9 @@ As I continue my academic and professional journey, my future endeavors involve 
 
 ## ♾️ React Portfolio Application with AWS and Docker Repository
 
-Explore the Devops handson work scripts in my latest project repository:
+Explore the DevOps hands-on work scripts in my latest project repository:
 
-[![View Devops Project Repo ](https://img.shields.io/badge/View%20Devops%20Project%20Repo-blue)](https://github.com/SSAKTHIVELMURUGAN/reactfolio.git)
+[![View DevOps Project Repo ](https://img.shields.io/badge/View%20DevOps%20Project%20Repo-blue)](https://github.com/SSAKTHIVELMURUGAN/reactfolio.git)
 
 Please refer to the README and code files in the repository for instructions on running the code and understanding its output.
 
@@ -83,7 +83,6 @@ You can check out my LeetCode profile and my problem-solving status:
 
 # 📈 Area of Interest
 
-- Digital Electronics ⚡️
 - Cryptocurrency 💰
 - Web Design using Canva, Figma 🎨
 
@@ -102,8 +101,5 @@ You can check out my LeetCode profile and my problem-solving status:
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SSAKTHIVELMURUGAN&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
 ---
 [![](https://visitcount.itsvg.in/api?id=SSAKTHIVELMURUGAN&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
