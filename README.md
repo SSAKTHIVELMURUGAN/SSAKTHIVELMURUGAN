@@ -14,31 +14,30 @@ Responsibilities include:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s-sakthivel-murugan-7515a1269/) &nbsp; &nbsp;
 [<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" height="40">](https://github.com/SSAKTHIVELMURUGAN)
-
 # 👨🏼‍💻 Technical Stack
 
 ## Programming Skills
-- Java 💻
-- MySQL 💾
+- Python 🐍
+- JavaScript 🟨
+- HTML & CSS 📝
 
-## Technical Skills
-### Cloud Platforms
-- Amazon Web Services (AWS) ☁️
+## ERP & Frameworks
+- Frappe Framework ⚙️
+- ERPNext 📊
 
-### Infrastructure as Code (IaC)
-- Terraform 🛠️
+## Database
+- MySQL / MariaDB 🗄️
 
-### Containerization & Orchestration
-- Docker 🐳
-- Kubernetes ☸️
+## Version Control
+- Git 🐙
 
-### Version Control & CI/CD
-- GitHub 🐙
-- GitHub Actions 🚀
-- Jenkins 🛠️
+## Operating Systems
+- Linux (Ubuntu) 🐧
 
-### Operating Systems
-- Ubuntu Linux 🐧
+## Additional Tools & Technologies
+- REST API Integration 🔗
+- Bootstrap 🎨
+- Jinja Templates 🧩
 
 ## ♾️ React Portfolio Application with AWS and Docker Repository
 
