@@ -1,21 +1,14 @@
 ### Hi there 👋, I'm Sakthivel Murugan S
-#### DevOps Engineer
+#### Software Engineer | Aerele Technologies
 
 # 💫 About Me:
-I am currently pursuing a B.E. in Electronics and Communication Engineering at Karpagam Institute of Technology. With a passion for technology and a strong foundation in cloud computing, I am adept at:
-
-- **DevOps Engineer:** Experienced in deploying and managing applications on AWS, utilizing GitHub, Docker, Kubernetes, and Terraform for automation.
-
-As I continue my academic and professional journey, I aim to deepen my expertise in DevOps and cloud technologies. By harnessing the power of automation and seamless deployment, I strive to create innovative solutions in this domain.
-
-- 🔭 **Currently working on:** Enhancing my skills in DevOps automation and UI design.
-- 🌱 **Learning:** Advanced cloud concepts and best practices in DevOps.
-- 👯 **Looking to collaborate on:** Projects involving innovative solutions and teamwork.
-- 🤔 **Seeking help with:** Gaining more hands-on experience in diverse areas of cloud and DevOps.
-- 💬 **Feel free to ask me about:** My journey into the world of technology and my passion for learning.
-- 📫 **Contact me:** [s.sakthivelmurugan2003@gmail.com](mailto:s.sakthivelmurugan2003@gmail.com)
-- 😄 **Pronouns:** He/Him
-- ⚡ **Fun fact:** I enjoy exploring new technologies and tinkering with electronic circuits in my spare time. I also love designing on Canva.
+I am currently working as a **Software Engineer at Aerele Technologies**.  
+My main focus is on ERP system development and customization using **Frappe** and **ERPNext** frameworks.  
+Responsibilities include:
+- Developing and customizing ERP modules with ERPNext
+- Writing efficient backend code in Python
+- Collaborating with development teams to deliver solutions tailored to client requirements
+- Gaining hands-on experience with real-world business processes and implementing them in software
 
 # 🌐 Socials:
 
